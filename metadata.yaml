@@ -1,0 +1,25 @@
+_repo: Little-Folks-Christmas-Stories-and-Plays_52231
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Skinner, Ada M. (Ada Maria)
+    alias: Skinner, Ada Maria
+    birthdate: 1878
+    gutenberg_agent_id: '1679'
+    url: http://www.gutenberg.org/2009/agents/1679
+description: ''
+gutenberg_issued: '2016-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52231'
+  lccn: '15013561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+- GITenberg
+title: Little Folks' Christmas Stories and Plays
+url: http://www.gutenberg.org/ebooks/52231
